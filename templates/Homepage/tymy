@@ -1,0 +1,9 @@
+INSERT INTO `Sloupce` (`Sloupec 1`, `Sloupec 2`, `Sloupec 3`, `Sloupec 4`, `Sloupec 5`) VALUES
+('Tym1',	'Tym1',	'Tym1',	'Tym1',	'Tym1'),
+('Tym2',	'Tym2',	'Tym2',	'Tym2',	'Tym2'),
+('Tym3',	'Tym3',	'Tym3',	'Tym3',	''),
+('Tym4',	'Tym4',	'Tym4',	'Tym4',	''),
+('Tym5',	'Tym5',	'Tym5',	'Tym5',	''),
+('Tym6',	'Tym6',	'Tym6',	'Tym6',	''),
+('Tym7',	'Tym7',	'Tym7',	'Tym7',	''),
+('Tym8',	'Tym8',	'Tym8',	'Tym8',	'');
